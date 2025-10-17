@@ -1,0 +1,20 @@
+# Laravel project by Mahmoud Hosny
+
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/public/hot
+.env
+.env.backup
+starter.sql
+
+# Cache 
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+
+#x
+Homestead.yaml
+Homestead.json
+
